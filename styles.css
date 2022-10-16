@@ -138,7 +138,7 @@ width: 100%;
     }   
 
     .container{
-        display:grid;
+        margin: 2.5rem 15rem 5rem 15rem;
     }
 
     .desktop-page-top{
